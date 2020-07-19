@@ -1,0 +1,520 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"mapur",
+				"mapurl_second"
+			],
+			[
+				"mapu",
+				"mapurl_first"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"if",
+				"ifelse\tif … else …"
+			],
+			[
+				"theme",
+				"theme_js"
+			],
+			[
+				"raw_",
+				"raw_input"
+			],
+			[
+				"gold",
+				"gold_room"
+			],
+			[
+				"my",
+				"my_func"
+			],
+			[
+				"nu",
+				"number_spinner"
+			],
+			[
+				"new",
+				"newdata"
+			],
+			[
+				"tag",
+				"tag_list"
+			],
+			[
+				"start",
+				"start_point"
+			],
+			[
+				"line",
+				"line_count"
+			],
+			[
+				"say",
+				"say_you_love_me"
+			],
+			[
+				"arg",
+				"argument1"
+			],
+			[
+				"argu",
+				"argument1"
+			],
+			[
+				"am",
+				"amount_of_crackers"
+			],
+			[
+				"amou",
+				"amount_of_cheese"
+			],
+			[
+				"cheese",
+				"cheese_and_crackers"
+			],
+			[
+				"chees",
+				"cheese_and_crackers"
+			],
+			[
+				"ar",
+				"arg2"
+			],
+			[
+				"txt",
+				"txt_again"
+			],
+			[
+				"file",
+				"file_again"
+			],
+			[
+				"s",
+				"squares"
+			],
+			[
+				"st",
+				"state"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"grid",
+				"grid-column"
+			],
+			[
+				"grid-te",
+				"grid-template-columns"
+			],
+			[
+				"div",
+				"divfive"
+			],
+			[
+				"fizz",
+				"fizzbuzz"
+			],
+			[
+				"is",
+				"isInteger"
+			],
+			[
+				"radi",
+				"radiusSquared"
+			],
+			[
+				"La",
+				"lastName"
+			],
+			[
+				"rou",
+				"roundUp"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"a",
+				"align-content"
+			],
+			[
+				"ba",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 149.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ter",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 362.0,
+		"history":
+		[
+			"close",
+			"quit",
+			"exit",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/narokir/Projects/React/tut-app"
+	],
+	"file_history":
+	[
+		"/Users/narokir/Projects/Wordpress/iterativetest/app/public/wp-content/themes/starter-theme/single-location.php",
+		"/Users/narokir/Projects/Wordpress/iterativetest/app/public/wp-config.php",
+		"/Users/narokir/Projects/Wordpress/iterativetest/app/public/wp-content/themes/starter-theme/archive-location.php",
+		"/Users/narokir/Projects/Wordpress/iterativetest/app/public/wp-content/themes/starter-theme/home.php",
+		"/Users/narokir/Projects/Wordpress/iterativetest/app/public/wp-content/themes/starter-theme/.env.dev",
+		"/Users/narokir/Projects/Wordpress/iterativetest/app/public/wp-content/themes/starter-theme/.gitignore",
+		"/Users/narokir/Projects/Wordpress/iterativetest/app/public/wp-content/themes/starter-theme/style.css",
+		"/Users/narokir/Projects/Wordpress/iterativetest/app/public/wp-content/themes/starter-theme/sass-partials/_custom-post.sass",
+		"/Users/narokir/Projects/Wordpress/iterativetest/app/public/wp-content/themes/starter-theme/gulpfile.js",
+		"/Users/narokir/Projects/Wordpress/iterativetest/app/public/wp-content/themes/starter-theme/dest/style.css",
+		"/Users/narokir/Projects/Wordpress/iterativetest/app/public/wp-content/themes/starter-theme/sass-partials/_footer-widgets.sass",
+		"/Users/narokir/Projects/Wordpress/iterativetest/app/public/wp-content/themes/starter-theme/style.sass",
+		"/Users/narokir/Projects/Wordpress/iterativetest/app/public/wp-content/themes/starter-theme/sass-partials/_defaults.sass",
+		"/Users/narokir/Projects/Wordpress/iterativetest/app/public/wp-content/themes/starter-theme/config.json",
+		"/Users/narokir/Projects/Wordpress/iterativetest/app/public/README.md",
+		"/Users/narokir/Projects/Wordpress/iterativetest/app/public/.gitignore",
+		"/Users/narokir/Projects/Wordpress/iterativetest/app/public/gitignore",
+		"/Users/narokir/.ssh/config",
+		"/Users/narokir/Projects/Wordpress/iterativetest/app/public/wp-content/themes/starter-theme/custom-post-types/index.php",
+		"/Users/narokir/Projects/Wordpress/iterativetest/app/public/wp-content/themes/starter-theme/functions.php",
+		"/Users/narokir/Projects/Wordpress/iterativetest/app/public/wp-content/themes/starter-theme/front-page.php",
+		"/Users/narokir/Projects/Wordpress/iterativetest/app/public/wp-content/themes/starter-theme/sass-partials/_single-post.sass",
+		"/Users/narokir/Projects/Wordpress/iterativetest/app/public/wp-content/themes/starter-theme/sass-partials/custom-post.css.scss",
+		"/Users/narokir/Projects/Wordpress/iterativetest/app/public/wp-content/themes/starter-theme/maps/style.css.map",
+		"/Users/narokir/Projects/Wordpress/iterativetest/app/public/wp-content/themes/starter-theme/archive-example.php",
+		"/Users/narokir/Projects/Wordpress/iterativetest/app/public/wp-content/themes/starter-theme/single-example.php",
+		"/Users/narokir/Desktop/wordpress-challenge/genesis/style.css",
+		"/Applications/MAMP/htdocs/wp-content/themes/Divi-child/style.css",
+		"/Applications/MAMP/htdocs/wp-content/themes/Divi-child/functions.php",
+		"/private/etc/hosts",
+		"/Applications/MAMP/htdocs/wp-content/themes/Divi-child/header.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/Divi-child/page.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/Divi-child/functions-HOLD 2.php",
+		"/Applications/MAMP/conf/apache/httpd.conf",
+		"/Applications/MAMP/conf/apache/extra/httpd-vhosts.conf",
+		"/Applications/MAMP/bin/php/php7.4.2/conf/php.ini",
+		"/Users/narokir/Projects/Wordpress/susan/app/public/wp-content/themes/Divi-Child-Theme/style.css",
+		"/Users/narokir/Projects/Wordpress/susan/app/public/wp-content/themes/Divi-Child-Theme/functions.php",
+		"/Users/narokir/Projects/localtest/app/public/wp-content/themes/Divi/functions.php",
+		"/Users/narokir/Projects/localtest/app/public/wp-content/themes/Divi-child/header.php",
+		"/Users/narokir/Projects/localtest/app/public/wp-content/themes/Divi/style.css",
+		"/Users/narokir/Projects/localtest/app/public/wp-content/themes/Divi-child/style.css",
+		"/Users/narokir/Projects/localtest/app/public/wp-content/themes/Divi-child/functions.php",
+		"/Users/narokir/Projects/localtest/app/public/wp-settings.php",
+		"/Users/narokir/Downloads/Divi 4.2.2 - The Ultimate WordPress Theme/Divi/style.css",
+		"/Applications/MAMP/htdocs/wp-content/themes/Divi-4.2.2/style.css",
+		"/Applications/MAMP/htdocs/wp-content/themes/Divi-4.2.2/style-cpt.css",
+		"/Applications/MAMP/htdocs/wp-content/themes/Divi-4.2.2/style.dev.css",
+		"/Applications/MAMP/htdocs/wp-content/themes/Divi-4.2.2-child/style.css",
+		"/Users/narokir/Downloads/Divi 4.2.2 - The Ultimate WordPress Theme/Divi-4.2.2/style.css",
+		"/Applications/MAMP/htdocs/.htaccess",
+		"/Applications/MAMP/conf/php7.4.2/php.ini",
+		"/Applications/MAMP/htdocs/wp-content/themes/Groovy-child/style.css",
+		"/Applications/MAMP/htdocs/wp-content/themes/Groovy/style.css",
+		"/Users/narokir/Downloads/Divi 4.2.2 - The Ultimate WordPress Theme/Divi 4.2.2 - The Ultimate WordPress Theme/Divi 4.2.2/style.css",
+		"/Applications/MAMP/htdocs/wp-content/themes/Divi_4_2_2-child/functions.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/Divi_4_2_2/functions.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/Divi/style.css",
+		"/Applications/MAMP/htdocs/wp-content/themes/Divi_4_2_2-child/style.css",
+		"/Applications/MAMP/htdocs/wp-content/themes/Divi_4_2_2/style.css",
+		"/Applications/MAMP/htdocs/wp-content/themes/Divi/header.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/Divi-child/js/custom.js",
+		"/Applications/MAMP/htdocs/wp-content/themes/Divi-child/single-project.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/index.php",
+		"/Users/narokir/Downloads/Divi 4.2.2 - The Ultimate WordPress Theme/Divi 4.2.2 - The Ultimate WordPress Theme/Divi/README.md",
+		"/Applications/MAMP/htdocs/wp-login.php",
+		"/Applications/MAMP/htdocs/web.config.180713205718.orig",
+		"/Applications/MAMP/htdocs/wp-mail.php",
+		"/Applications/MAMP/htdocs/wp-config.php",
+		"/Applications/MAMP/htdocs/wp-load.php",
+		"/Applications/MAMP/htdocs/web.config",
+		"/private/etc/hosts~orig",
+		"/private/etc/hosts.save",
+		"/private/etc/hosts.equiv",
+		"/private/etc/hosts..equiv",
+		"/private/etc/hosts-orig",
+		"/Users/narokir/Downloads/Adobe Creative Cloud CC 2018 Master Colllection For MacOSX [SadeemPC]/Adobe CC 2018 Crack/Adobe CC 2018 Crack/amtlib patched/amtlib.framework/Versions/A/painter.ini",
+		"/Applications/Adobe Illustrator CC 2018/Adobe Illustrator.app/Contents/Frameworks/amtlib.framework/Versions/A/painter.ini",
+		"/Users/narokir/Projects/instapy/instapy.py",
+		"/Users/narokir/Projects/python/ex35.py",
+		"/Users/narokir/Projects/python/ex32.py",
+		"/Users/narokir/Projects/python/ex33.py",
+		"/Users/narokir/Projects/python/ex29.py",
+		"/Users/narokir/Projects/python/tags.txt",
+		"/Users/narokir/Projects/python/tag_cleaner.py",
+		"/Users/narokir/Projects/python/ex30.py",
+		"/Users/narokir/Projects/python/ex31.py",
+		"/Users/narokir/Projects/python/ex26.py",
+		"/Users/narokir/Projects/python/ex21.py",
+		"/Users/narokir/Projects/python/ex24.py",
+		"/Users/narokir/Projects/python/ex25.py",
+		"/Users/narokir/Projects/python/ex20.py",
+		"/Users/narokir/Projects/python/ex19.py",
+		"/Users/narokir/Projects/python/ex18.py",
+		"/Users/narokir/Projects/python/ex17.py",
+		"/Users/narokir/Projects/python/ex15.py",
+		"/Users/narokir/Projects/python/ex16.py",
+		"/Users/narokir/Projects/python/test.txt",
+		"/Users/narokir/Projects/python/ex16drill2.py",
+		"/Users/narokir/Projects/python/ex16test.txt",
+		"/Users/narokir/Projects/python/ex15_sample.txt",
+		"/Users/narokir/Projects/python/ex13.py",
+		"/Users/narokir/Projects/python/ex14.py",
+		"/Users/narokir/Projects/instabot/example.py",
+		"/Users/narokir/Projects/python/ex7.py",
+		"/Users/narokir/Projects/python/ex12.py",
+		"/Users/narokir/Projects/python/ex11.py",
+		"/Users/narokir/Projects/python/touch",
+		"/Users/narokir/Projects/python/ex8.py",
+		"/Users/narokir/Projects/python/ex9.py",
+		"/Users/narokir/Projects/python/ex10.py",
+		"/Users/narokir/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/narokir/Projects/python/ex5.py",
+		"/Users/narokir/Projects/python/ex6.py",
+		"/Users/narokir/Projects/python/ex4.py",
+		"/Users/narokir/Projects/python/ex3.py",
+		"/Users/narokir/Projects/python/ex1.py",
+		"/Users/narokir/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/narokir/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/narokir/Projects/instabot/simple.py",
+		"/Users/narokir/Dropbox/improv/index.html",
+		"/Users/narokir/Dropbox/fomat.md",
+		"/Users/narokir/Desktop/@oahvids on Instagram: “Comment your reaction 😁💪🏼 @ashleynocera”.html",
+		"/etc/hosts",
+		"/Users/narokir/Projects/Susan McGrath/Backup/07_21_18/Instalation_Instructions",
+		"/Users/narokir/Projects/Susan McGrath/New Site/.bash_history",
+		"/Users/narokir/php.ini",
+		"/Users/narokir/Desktop/wp-config.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 109.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tut-app.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				".gitignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
