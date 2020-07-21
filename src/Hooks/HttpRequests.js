@@ -1,7 +1,9 @@
 import { useEffect, useState } from 'react';
-import axios from 'axios';
+import axios from 'axios'; //Promise based HTTP client for the browser and node.js https://github.com/axios/axios
 
+//Create custom Hook
 function useAxiosGet(url) {
+  // Call useState hook and declare variable 'count'. Passing 3 initial state arguments as object
   const [request, setRequest] = useState({
     loading: false,
     data: null,
@@ -35,4 +37,4 @@ function useAxiosGet(url) {
   return request;
 }
 
-export default useAxiosGet;
+export default useAxiosGet; //export the hook
