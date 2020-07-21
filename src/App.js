@@ -1,10 +1,11 @@
-import React from "react";
+import React from 'react';
 //import logo from "./logo.svg";
-import Header from "./Components/Header";
-import Footer from "./Components/Footer";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import Home from "./Views/Home";
-import About from "./Views/About";
+import Header from './Components/Header';
+import Footer from './Components/Footer';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import Home from './Views/Home';
+import About from './Views/About';
+import Product from './Views/Product';
 
 function App() {
   return (
@@ -12,14 +13,17 @@ function App() {
       <Router>
         <Header />
 
-        <div className="p-3">
+        <div className='p-3'>
           <Switch>
-            <Route exact path="/">
+            <Route exact path='/'>
               <Home />
             </Route>
 
-            <Route path="/about">
+            <Route path='/about'>
               <About />
+            </Route>
+            <Route path='/products/:id'>
+              <Product />
             </Route>
           </Switch>
         </div>
